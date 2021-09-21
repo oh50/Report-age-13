@@ -1,7 +1,5 @@
 from time import sleep
 import time
-import urllib.request
-import urllib.error
 import requests
 from user_agent import generate_user_agent as oh50
 print("""─────────────────────────────────────────────────────────────
